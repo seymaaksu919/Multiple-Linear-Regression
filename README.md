@@ -70,16 +70,4 @@ Bu bilgiler modele verilerek tahmini sınav notu elde edilmiştir.
 
 Çoklu Doğrusal Regresyon algoritmasının uygulanmasını öğrenmek, bağımsız değişkenler ile sınav notu arasındaki ilişkileri incelemek ve makine öğrenmesi kullanarak sayısal tahmin gerçekleştirmektir.
 
-## Nasıl Çalıştırılır?
-
-1. Projeyi bilgisayarınıza indirin.
-2. Gerekli kütüphaneleri yükleyin:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-3. Jupyter Notebook'u açın.
-4. Notebook içerisindeki hücreleri sırasıyla çalıştırın.
-
-
 Not: Bu çalışma, Udemy'de Atıl Samancıoğlu'nun eğitim içeriği takip edilerek öğrenme ve uygulama amacıyla gerçekleştirilmiştir.
-
-
